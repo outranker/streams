@@ -1,0 +1,32 @@
+{
+  "streams": [
+    {
+      "title": "sdf",
+      "description": "fds",
+      "id": 1
+    },
+    {
+      "title": "sdf",
+      "description": "fds",
+      "id": 2
+    },
+    {
+      "title": "i created this stream",
+      "description": "this was made by me",
+      "userId": "106895672314517204305",
+      "id": 3
+    },
+    {
+      "title": "undexpected behaviour",
+      "description": "didnt expect that!",
+      "userId": "106895672314517204305",
+      "id": 4
+    },
+    {
+      "title": "prm nav",
+      "description": "history pushed",
+      "userId": "106895672314517204305",
+      "id": 5
+    }
+  ]
+}

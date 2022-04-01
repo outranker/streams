@@ -1,9 +1,8 @@
-import React from 'react'
+import React from "react";
 
-function StreamEdit() {
-    return (
-        <div>StreamEdit</div>
-    )
+function StreamEdit(props) {
+  console.log(props);
+  return <div>StreamEdit</div>;
 }
 
-export default StreamEdit
+export default StreamEdit;
